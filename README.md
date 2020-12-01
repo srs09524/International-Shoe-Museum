@@ -2,4 +2,4 @@
 
 Web design project
 
-Sam Sedia, Gaby Garcy, Joey Morsheimer and Will Stuck
+Sam Sedia, Gabby Garcy, Joey Morsheimer and Will Stuck
